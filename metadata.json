@@ -1,0 +1,8 @@
+{
+  "name": "GENERUS CREATIVE",
+  "description": "An all-in-one creative tool for generating ideas, high-quality images, videos, and professional voiceovers using Gemini 3 and Veo models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
